@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "uN1LbYH+FkQI17q24v1VW/vXF5gfMi0HfcF8U1e22Cd30fpU23DGqDkkX4mHH6NEh64e73LhGxfOWcYOOjU59A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cedro_nds\\Documents\\Desafio25\\Desafio25.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cedro_nds\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\cedro_nds\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\cedro_nds\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\cedro_nds\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\cedro_nds\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\cedro_nds\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
