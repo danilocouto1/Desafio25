@@ -198,11 +198,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cedro_nds\\Documents\\Desafio25\\Desafio25.csproj",
+      "projectUniqueName": "C:\\Users\\cedro_nds\\Documents\\Desafio25\\Desafio25\\Desafio25.csproj",
       "projectName": "Desafio25",
-      "projectPath": "C:\\Users\\cedro_nds\\Documents\\Desafio25\\Desafio25.csproj",
+      "projectPath": "C:\\Users\\cedro_nds\\Documents\\Desafio25\\Desafio25\\Desafio25.csproj",
       "packagesPath": "C:\\Users\\cedro_nds\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cedro_nds\\Documents\\Desafio25\\obj\\",
+      "outputPath": "C:\\Users\\cedro_nds\\Documents\\Desafio25\\Desafio25\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cedro_nds\\AppData\\Roaming\\NuGet\\NuGet.Config",
